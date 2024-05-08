@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=HI,+MY+NAME+is+Vinicius+Lima+Sulpicio;I'm+16+years+old;I'm+from+Brasil,+SP;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9400D3&size=35&center=true&vCenter=true&width=1000&lines=Eaee,+meu+nome+é+Mateus+Silverio+de+Oliveira;16+years+old;:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Viniciusulpicio&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=c9d1d9&bg_color=0d1117" alt="Vinicius Sulpicio github stats" /> 
